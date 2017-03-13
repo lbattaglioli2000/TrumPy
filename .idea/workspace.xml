@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75b7a9a-8ec7-460e-8490-73da2f164e89" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/CHANGES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/MANIFEST.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/README.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/playsound.egg-info/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/playsound.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/playsound.egg-info/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/playsound.egg-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/playsound.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/setup.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/playsound/setup.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trum.py" afterPath="$PROJECT_DIR$/trum.py" />
     </list>
@@ -38,8 +26,8 @@
       <file leaf-file-name="trum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="55" column="108" selection-start-line="55" selection-start-column="108" selection-end-line="55" selection-end-column="108" />
+            <state relative-caret-position="395">
+              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
               <folding>
                 <element signature="e#33#46#0" expanded="true" />
               </folding>
@@ -381,6 +369,14 @@
       <option name="presentableId" value="Default" />
       <updated>1487949805441</updated>
     </task>
+    <task id="LOCAL-00001" summary="removed playsound lib">
+      <created>1489434789134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1489434789134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,6 +412,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed playsound lib" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed playsound lib" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -500,8 +500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/trum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="55" column="108" selection-start-line="55" selection-start-column="108" selection-end-line="55" selection-end-column="108" />
+        <state relative-caret-position="395">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
           <folding>
             <element signature="e#33#46#0" expanded="true" />
           </folding>

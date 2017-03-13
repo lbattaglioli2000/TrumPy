@@ -27,7 +27,7 @@ imageURLS = ["https://www.askideas.com/media/48/Yeah-If-The-Lazy-Mexicans-Could-
 def openMeme():
     randomIndex = random.randint(0, len(imageURLS))
     randomImage = imageURLS[randomIndex]
-    webbrowser.open(randomImage, new=0, autoraise=True)
+    webbrowser.open(randomImage, new=1, autoraise=True)
 
 
 # random trump sounds
@@ -44,7 +44,7 @@ def readStory():
     "http://www.bbc.com/news/world-us-canada-38785028"]
     randomIndex = random.randint(0, len(storyURLS))
     randomStory = storyURLS[randomIndex]
-    webbrowser.open(randomStory, new=0, autoraise=True)
+    webbrowser.open(randomStory, new=1, autoraise=True)
 
 
 # every 2 minutes, display a "virus warning" and open a meme
