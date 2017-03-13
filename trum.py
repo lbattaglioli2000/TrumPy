@@ -2,7 +2,6 @@
 import random
 # imports the web browser module to display the trump memes
 import webbrowser
-import playsound
 # import os to read directories
 import os
 # used for the sleep function to wait a specific time, then execute the next line
